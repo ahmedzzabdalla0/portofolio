@@ -1,0 +1,1 @@
+export { RootLayoutTemplate } from './RootLayout'
